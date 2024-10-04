@@ -1,0 +1,1 @@
+A machine learning model designed to predict future attendance of children during Toddler Play Sessions at Jungle Gym Willetton using historical data including temperature, rainfall, day of the week, etc.
